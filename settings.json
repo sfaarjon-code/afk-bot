@@ -8,14 +8,14 @@
   "server": {
     "ip": "wehatejews69.aternos.me",
     "port": 33165,
-    "version": "1.26.2",
+    "version": "26.2",
     "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -643,
+    "y": 63,
+    "z": -303
   },
   "utils": {
     "auto-auth": {
